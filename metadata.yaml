@@ -1,5 +1,8 @@
 _repo: Esthetique-de-la-langue-francaise_65421
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65421-h/images/cover.jpg
 creator:
   author:
     agent_name: Gourmont, Remy de
@@ -20,6 +23,8 @@ creator:
     - https://en.wikipedia.org/wiki/R%C3%A9my_de_Gourmont
     - https://fr.wikipedia.org/wiki/Remy_de_Gourmont
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65421#Esthetique-de-la-langue-francaise
 gutenberg_issued: '2021-05-23'
 gutenberg_type: Text
 identifiers:
