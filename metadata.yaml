@@ -1,0 +1,37 @@
+_repo: Esthetique-de-la-langue-francaise_65421
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gourmont, Remy de
+    aliases:
+    - L'Ymagier
+    - Gourmont, Remye
+    - Le Danois, N.
+    - De Gourmont, Remy
+    - Gourmont, Rémy de
+    - Gourmont, Remi de
+    - Drexelius, J.
+    - Coffe, M.
+    birthdate: 1858
+    deathdate: 1915
+    gutenberg_agent_id: '6996'
+    url: http://www.gutenberg.org/2009/agents/6996
+    wikipedia:
+    - https://en.wikipedia.org/wiki/R%C3%A9my_de_Gourmont
+    - https://fr.wikipedia.org/wiki/Remy_de_Gourmont
+description: ''
+gutenberg_issued: '2021-05-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65421'
+  lccn: f01002582
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PC'
+- !lcsh 'French language'
+- GITenberg
+title: Esthétique de la langue française
+url: http://www.gutenberg.org/ebooks/65421
